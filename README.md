@@ -107,7 +107,7 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data an
 <h3>1. Classification Report</h3>
 
 <div align="center">
-<img src = ".Images/Classification Report.png" width="50%">
+<img src = "./Images/Classification Report.png" width="50%">
 <p>Classification report for 70:30 train-validation ratio</p>
 </div>
 
