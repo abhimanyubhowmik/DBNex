@@ -6,7 +6,7 @@
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1002/itl2.395) 
 [![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/competitions/ieee-fraud-detection) 
-[![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/RiceCloud/tree/main/Model)
+[![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/DBNex/tree/main/Data_and_Model)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1gvCsCyNCn75RjuJnyyVfNFqU01OW1PKzvIrtb3buVqM/edit?usp=sharing) 
 
 
@@ -35,7 +35,7 @@ Dataset Specifications:
 **Note:** Only 0.172% of the transactions in the dataset are fraudulent,
 which indicates a severe lack of balance.
 
-Sample Dataset from the actual dataset can be found in the the folder `./Data and Model`.
+Sample Dataset from the actual dataset can be found in the the folder `./Data_and_Model`.
 
 
 
