@@ -68,14 +68,14 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data_an
 <h4>Uniform Manifold Approximation and Projection (UMAP)</h4>
 
 <div align="center">
-<img src = "./Images/UMAP.png" width="70%">
+<img src = "./Images/UMAP.png" width="50%">
 <p>Clustering of UMAP-based 2D embedding of non-fraud samples using DBSCAN </p>
 </div>
 
 <h4>Density-Based Spatial Clustering of Applications with Noise or DBSCAN</h4>
 
 <div align="center">
-<img src = "./Images/SH.png" width="70%">
+<img src = "./Images/SH.png" width="50%">
 <p>Silhouette score of DBSCAN Clusters for non-fraud samples where ϵ ranging from 0.1 to 0.6. </p>
 </div>
 
