@@ -11,7 +11,7 @@
 
 
 
-> **Abstract:** *The majority of financial transactions are now conducted virtually around the world. The widespread use of credit cards and online transactions encourages fraudulent activity. Thus, one of the most demanding real-world challenges is fraud detection. Unbalanced datasets, in which there are a disproportionately high number of non-fraud samples compared to incidents of fraud, are one of the key obstacles to effective fraud detection. A further factor complicating the learning process for cutting-edge machine learning classifiers is how quickly fraud behaviour changes. Thus, in this study, we suggest an efficient fraud detection methodology. We propose a unique nonlinear embedded clustering to resolve imbalances in the dataset, followed by a Deep Belief network for detecting fraudulent transactions.*
+> **Abstract:** *The majority of financial transactions are now conducted virtually around the world. The widespread use of credit cards and online transactions encourages fraudulent activity. Thus, one of the most demanding real-world challenges is fraud detection. Unbalanced datasets, in which there are a disproportionately high number of non-fraud samples compared to incidents of fraud, are one of the key obstacles to effective fraud detection. A further factor complicating the learning process for cutting-edge machine learning classifiers is how quickly fraud behaviour changes. Thus, in this study, we suggest an efficient fraud detection methodology. We propose a unique nonlinear embedded clustering to resolve imbalances in the dataset, followed by a Deep Belief Network for detecting fraudulent transactions.*
 
 <hr />
 
