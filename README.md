@@ -90,7 +90,7 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data an
 
 
 <div align="center">
-<img src = "./Images/Deep Belief Network.png" width="100%">
+<img src = "./Images/Deep Belief Network.png" width="70%">
 <p>Architecture of Deep Belief Network </p>
 </div>
 
