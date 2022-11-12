@@ -134,7 +134,7 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data an
 <table>
   <tr>
     <td width="50%"> <img src = "./Images/Shap 1.png" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "./Images/Shap 2.jpeg" width="100%"><br>(b) </td>
+    <td width="50%"> <img src = "./Images/Shap 2.png" width="100%"><br>(b) </td>
   </tr>
 </table>
 <p>(a), (b) Beeswarm plot of testing dataset for both the classes (left) Heatmap plot of testing dataset for both the classes (right).</p>
