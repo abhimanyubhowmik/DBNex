@@ -7,7 +7,7 @@
 [![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1002/itl2.395) 
 [![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/competitions/ieee-fraud-detection) 
 [![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/DBNex/tree/main/Data_and_Model)
-[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1gvCsCyNCn75RjuJnyyVfNFqU01OW1PKzvIrtb3buVqM/edit?usp=sharing) 
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1btUACelHTbZ4aX9lCH3yg1O-jxsZWn4l/edit?usp=sharing&ouid=103859519837437819731&rtpof=true&sd=true) 
 
 
 
@@ -27,7 +27,7 @@ The dataset contains `492 frauds` out of `284,807 transactions` that took place 
 
 Dataset Specifications:
 
-* PCA (Principle Component Analysis) transformed into features V1, V2,... V28 
+* PCA (Principal Component Analysis) transformed into features V1, V2,... V28 
 * Time
 * Amount
 * Class
