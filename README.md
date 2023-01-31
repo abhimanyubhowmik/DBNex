@@ -4,7 +4,7 @@
 
 [Abhimanyu Bhowmik](https://scholar.google.com/citations?user=r3bzJ7oAAAAJ&hl=en), [Madhushree Sannigrahi](https://scholar.google.com/citations?user=Mtnm7igAAAAJ&hl=en), [Deepraj Chowdhury](https://scholar.google.com/citations?user=9sZgeV4AAAAJ&hl=en), [Ashutosh Dhar Dwivedi](https://scholar.google.com/citations?user=EjGUfp0AAAAJ&hl=en), [Raghava Rao Mukkamala](https://scholar.google.com/citations?user=VkhjFd4AAAAJ&hl=en)
 
-[![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1002/itl2.395) 
+[![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1109/BigData55660.2022.10020494) 
 [![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/competitions/ieee-fraud-detection) 
 [![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/DBNex/tree/main/Data_and_Model)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1btUACelHTbZ4aX9lCH3yg1O-jxsZWn4l/edit?usp=sharing&ouid=103859519837437819731&rtpof=true&sd=true) 
@@ -146,10 +146,19 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data_an
 
 <h2>Cite our work</h2>
 
-    
-    Bhowmik A., Sannigrahi M., Chowdhury D., Dwivedi A., Mukkamala R. (2022). DBNex: Deep Belief Network and Explainable AI based Financial Fraud Detection. Acepted in IEEE International Conference on Big Data (IEEE BigData 2022).
+```bibtex
 
+  @INPROCEEDINGS{10020494,
+  author={Bhowmik, Abhimanyu and Sannigrahi, Madhushree and Chowdhury, Deepraj and Dwivedi, Ashutosh Dhar and Rao Mukkamala, Raghava},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
+  title={DBNex: Deep Belief Network and Explainable AI based Financial Fraud Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3033-3042},
+  doi={10.1109/BigData55660.2022.10020494}}
 
+```
 <hr />
 
 <h2>Contact</h2>
